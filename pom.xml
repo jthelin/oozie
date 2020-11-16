@@ -106,7 +106,7 @@
          <hadoop.auth.version>${hadoop.version}</hadoop.auth.version>
          <tez.version>0.8.4</tez.version>
 
-         <jetty.version>9.2.19.v20160908</jetty.version>
+         <jetty.version>9.4.34.v20201102</jetty.version>
 
          <jline.version>0.9.94</jline.version>
          <openjpa.version>2.4.1</openjpa.version>
